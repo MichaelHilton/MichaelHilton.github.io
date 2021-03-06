@@ -12,7 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Source at <a href="https://github.com/MichaelHilton/MichaelHilton.github.io">GitHub</a>
+  To build a simiar page, see <a href="https://github.com/MichaelHilton/MichaelHilton.github.io">source on GitHub</a>
 url: http://michaelhilton.github.io/  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
@@ -80,15 +80,10 @@ disqus_shortname:  # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
-# collections:
-#   news:
-#     defaults:
-#       layout: post
-#     output: true
-#     permalink: /news/:path/
-#   projects:
-#     output: true
-#     permalink: /projects/:path/
+collections:
+  courses:
+    output: true
+    permalink: /courses/:path/
 
 # news_limit: 5
 
@@ -166,7 +161,7 @@ enable_mansory:             true
 enable_math:                true
 enable_tooltips:            false
 enable_darkmode:            false
-show_social_icons:          true
+show_social_icons:          false
 
 # -----------------------------------------------------------------------------
 # Library versions
