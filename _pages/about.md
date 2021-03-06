@@ -2,7 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: > <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+Assistant Teaching Professor
+Institute for Software Research
+School of Computer Science
+Carnegie Mellon University
 
 profile:
   align: right
