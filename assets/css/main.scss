@@ -12,3 +12,26 @@ $max-content-width: {{site.max_width}};
   "layout",
   "base"
 ;
+
+@import url(http://fonts.googleapis.com/css?family=Source+Serif+Pro|Open+Sans:400italic,700italic,400,700);
+
+// Font Variables
+$sorce-serif: 'Source+Serif+Pro', serif;   
+$open-sans: 'Open+Sans', sans-serif;
+$fascinate: 'Fascinate';
+
+body {
+  font-family: $open-sans;
+}
+
+h1.post-title{
+  font-family: $fascinate;
+}
+
+div.social{
+  height: 10px;
+}
+
+p.desc{
+  font-weight: bold;
+}
