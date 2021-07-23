@@ -15,7 +15,7 @@ footer_text: >
   To build a simiar page, see <a href="https://github.com/MichaelHilton/MichaelHilton.github.io">source on GitHub</a>
 url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 #icon: 🎓 # the emoji used as the favicon
 last_updated: false # set to true if you want to display last updated in the footer
@@ -137,7 +137,6 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-twitter-plugin
-  - jekyll-sitemap
   - jemoji
 
 # Extras
