@@ -12,7 +12,7 @@ horizontal: false
 
 [Job Application CV](../assets/pdf/hilton_cv_job_application.pdf)\
 [Statement of Research](../assets/pdf/res.pdf)\
-[Statement of Teaching](../assets/pdf/res.pdf)
+[Statement of Teaching](../assets/pdf/tea.pdf)
 
 
 ### Current CV
