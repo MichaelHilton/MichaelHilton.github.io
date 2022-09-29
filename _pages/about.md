@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I am an <B>associate teaching professor</b> with the [Institute for Software Research](https://www.isri.cmu.edu/), in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/)
 
 
-I am the <b>director</b> for the [Software Engieering Minor](https://www.isri.cmu.edu/education/undergrad/se-minor/index.html) and the [Software Engineering Concentration](https://www.isri.cmu.edu/education/undergrad/swe-concen/index.html).  We are accepting new applications, please don't hesitate to reach out if you have any questions.
+I am the <b>director</b> for the [Software Engineering Minor](https://www.isri.cmu.edu/education/undergrad/se-minor/index.html) and the [Software Engineering Concentration](https://www.isri.cmu.edu/education/undergrad/swe-concen/index.html).  We are accepting new applications, please don't hesitate to reach out if you have any questions.
 
 
 I teach software engineering focused classes.  For more information about my teaching, see the classes I have taught and am teaching [here](teaching).
