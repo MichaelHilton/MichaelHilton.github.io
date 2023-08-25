@@ -27,6 +27,7 @@ My research is focused making the world better for developers.  Currently one ar
 <!-- https://calendar.google.com/calendar/u/0/selfsched?sstoken=UVBESmdVMjFlUlJhfGRlZmF1bHR8MjliMmQ2NDg3Y2Y3NmZkNGM4MDZkODU3YmFjZGJlMmQ -->
 
 
-#### To meet with me, please sign up for a slot using my Google calendar:
-
-<iframe src="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UVBESmdVMjFlUlJhfGRlZmF1bHR8MjliMmQ2NDg3Y2Y3NmZkNGM4MDZkODU3YmFjZGJlMmQ&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+#### To meet with me, please sign up for an appointment using Google calendar:
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0Tj0VwX3oJqW1XbMukH2y8K2XfGOByqShEQonUkUHpjHfY8OKdX4fWep3UB4vPjKHs_a6U58_m?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
