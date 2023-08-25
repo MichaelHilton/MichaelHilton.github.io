@@ -14,7 +14,15 @@ nav: true
 
 
 |  <img src="../assets/img/cmu-wordmark-stacked-r.png" height="40px" >    | ||
-
+|| Spring 2023 | 17-356 Software Engineering for Startups |
+|| Spring 2023 | [17-313 Foundations of Software Engineering](https://cmu-313.github.io/) |
+|| Fall 2022 | 17-313 Foundations of Software Engineering |
+|| Fall 2022 | 17-623 Quality Assurance |
+|| Spring 2022 | 17-950 Crafting Software |
+|| Spring 2022 | 17-356 Software Engineering for Startups |
+|| Spring 2022 | 15-890 CS pedagogy |
+|| Fall 2021 | 17-313 Foundations of Software Engineering |
+|| Fall 2021 | 17-625 Design Patterns & API Design |
 || Spring 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 17-450/950  [Crafting Software](https://cmu-crafting-software.github.io/) | 
 || Spring 2021 | 17-356 Software Engineering for Startups | 
 || Fall 2020 | 17-400 - Data Science and Machine Learning at Scale | 
