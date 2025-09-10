@@ -14,6 +14,21 @@ nav: true
 
 
 |  <img src="../assets/img/cmu-wordmark-stacked-r.png" height="40px" >    | ||
+
+
+|| Fall 2025 | 17-200 Introduction to Software Construction |
+|| Fall 2025 | 15-890 Computer Science Pedagogy |
+|| Fall 2025 | 17-313  Foundations of Software Engineering |
+|| Spring 2025 | 17-313  Foundations of Software Engineering |
+|| Spring 2025 | 17-950 Crafting Software |
+|| Fall 2024 | 07-120 Introduction to Software Construction |
+|| Fall 2024 | 15-890 Computer Science Pedagogy |
+|| Fall 2024 | 17-313  Foundations of Software Engineering |
+|| Spring 2024 | 17-313  Foundations of Software Engineering |
+|| Spring 2024 | 17-950 Crafting Software |
+|| Fall 2023 | 07-120 Introduction to Software Construction |
+|| Fall 2023 | 15-890 Computer Science Pedagogy | 
+|| Summer 2023 | 99-519 Collaborative Research through Projects |
 || Spring 2023 | 17-356 Software Engineering for Startups |
 || Spring 2023 | [17-313 Foundations of Software Engineering](https://cmu-313.github.io/) |
 || Fall 2022 | 17-313 Foundations of Software Engineering |

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description:  Associate Teaching Professor, Institute for Software Research
+description:  Teaching Professor, Institute for Software Research
 
 profile:
   align: right
@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an <B>associate teaching professor</b> with the [Institute for Software Research](https://www.isri.cmu.edu/), in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/)
+I am a <B>Teaching Professor</b> with the [Software and Societal Systems Department](https://s3d.cmu.edu/), in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am also the <B>Associate Department Head for Education</b>. 
 
 
 I am the <b>director</b> for the [Software Engineering Minor](https://www.isri.cmu.edu/education/undergrad/se-minor/index.html) and the [Software Engineering Concentration](https://www.isri.cmu.edu/education/undergrad/swe-concen/index.html).  We are accepting new applications, please don't hesitate to reach out if you have any questions.
