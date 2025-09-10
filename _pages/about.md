@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 I am a <B>Teaching Professor</b> with the [Software and Societal Systems Department](https://s3d.cmu.edu/), in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am also the <B>Associate Department Head for Education</b>. 
 
 
-I am the <b>director</b> for the [Software Engineering Minor](https://www.isri.cmu.edu/education/undergrad/se-minor/index.html) and the [Software Engineering Concentration](https://www.isri.cmu.edu/education/undergrad/swe-concen/index.html).  We are accepting new applications, please don't hesitate to reach out if you have any questions.
+I am the <b>director</b> for the [Software Engineering Minor](https://s3d.cmu.edu/education/undergrad-programs/swe-minor/index.html) and the [Software Engineering Concentration](https://s3d.cmu.edu/education/undergrad-programs/swe-concen/index.html).  We are accepting new applications, please don't hesitate to reach out if you have any questions.
 
 
 I teach software engineering focused classes.  For more information about my teaching, see the classes I have taught and am teaching [here](teaching).
