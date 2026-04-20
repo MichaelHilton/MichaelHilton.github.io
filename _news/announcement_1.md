@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-12 00:00:00-0500
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Opinion piece published at New York Times: <a href="https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html ">You’re a Computer Science Major. Don’t Panic.</a>

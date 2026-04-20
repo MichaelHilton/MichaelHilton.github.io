@@ -2,24 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Teaching Professor & Associate Department Head for Education<br>
+  <a href="https://s3d.cmu.edu/">Software and Societal Systems Department</a>,
+  <a href="https://www.cs.cmu.edu/">School of Computer Science</a>,
+  <a href="https://www.cmu.edu/">Carnegie Mellon University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.webp
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>TCS Hall 342</p>
+    <p>mhilton@cmu.edu</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Teaching Professor with the [Software and Societal Systems Department](https://s3d.cmu.edu/), in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am also the Associate Department Head for Education.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I teach software engineering focused classes. For more information about my teaching, see the [courses I have taught](/teaching/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is focused on making the world better for developers. Currently one area of interest for me is investigating flaky tests.
+
+
+
+
+
+
+#### To meet with me, please sign up for an appointment using Google calendar:
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0Tj0VwX3oJqW1XbMukH2y8K2XfGOByqShEQonUkUHpjHfY8OKdX4fWep3UB4vPjKHs_a6U58_m?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->
