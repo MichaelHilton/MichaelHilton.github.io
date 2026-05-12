@@ -16,9 +16,9 @@ profile:
     <p>TCS Hall 342</p>
     <p>mhilton@cmu.edu</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am a Teaching Professor with the [Software and Societal Systems Department](https://s3d.cmu.edu/), in the [School of Computer Science](https://www.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I am also the Associate Department Head for Education.
@@ -27,9 +27,14 @@ I teach software engineering focused classes. For more information about my teac
 
 My research is focused on making the world better for developers. Currently one area of interest for me is investigating flaky tests.
 
+<BR><BR><BR>
+{% if site.announcements.enabled %}
+## [news](/news/)
+{% include news.liquid limit=true %}
+{% endif %}
 
 
-
+<BR><BR><BR>
 
 
 #### To meet with me, please sign up for an appointment using Google calendar:
